@@ -29,7 +29,7 @@ img {
   max-width: 100%;
   height: auto;
 }
-/*.img-container:hover .image {
+/*.img-container:hover img{
   opacity: 0.3;
 }*/
 
